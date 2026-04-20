@@ -107,3 +107,23 @@ To download Ansys Electronics Desktop Student version for free, click here.
 6. Two-Way Coupling
 7. Practice Quiz
 
+## ETM Using Ansys Maxwell and Icepak
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/ETM-Using-Ansys-Maxwell-and-Icepak-768x432.png)
+
+> Every electronic device or circuit generates heat during its operation. When designing the electronic systems, it is important to check the thermal limits for guaranteed operation  otherwise, heat can degrade the performance of the system. The level of heat generated may vary depending on operating power, component density, component type, etc., present in the device.
+
+> In this course, the Ansys Maxwell Eddy Current solver and electrothermal two-way coupling between Ansys Maxwell and Ansys Icepak will be discussed.
+
+> The Maxwell Eddy Current solver computes electromagnetic fields in the frequency domain and assumes steady-frequency AC current as a source of excitation.
+
+> Ansys Icepak is a computational fluid dynamics (CFD) solver for electrothermal management (ETM). It provides flow and thermal management solutions for electronic applications.
+
+> This course starts with the simulation of an electromagnetic brake (EMB) using the Maxwell Eddy Current solver. It also covers the simulation workflow required to perform electrothermal analysis using Maxwell and Icepak inside Ansys Electronics Desktop (AEDT) Student version. Finally we will see the temperature rise in various parts of the EMB by changing the source parameters.
+
+> To download Ansys Electronics Desktop Student version for free, click here
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the ETM Using Ansys Maxwell and Icepak course.
+
+**Cost:** FREE, **Course Duration:** 4-6 HOURS, **Skill Level:** Intermediate, **Skills Gained:** Ansys, Maxwell, Icepak, Electrothermal Management
+
