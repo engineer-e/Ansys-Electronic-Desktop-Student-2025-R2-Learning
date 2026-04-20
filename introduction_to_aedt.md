@@ -1,4 +1,5 @@
 # Introduction to AEDT
+![](https://innovationspace.ansys.com/courses/wp-content/uploads/sites/5/2023/06/New-Course-Template-1.jpg)
 
 > In this learning track, we will learn how to use various types of design types inside the Ansys Electronics Desktop Student version. This learning track gets you started with the Ansys Electronics Desktop. The objective of this learning track is to get familiar with all the available design types. It covers all the fundamental concepts about designing and analyzing high-frequency and low-frequency products and how to perform electrothermal analysis for these products. It also covers the basics of the Q3D extractor which calculates parasitic parameters of frequency-dependent electronics products.
 
