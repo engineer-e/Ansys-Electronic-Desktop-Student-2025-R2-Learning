@@ -107,6 +107,8 @@ To download Ansys Electronics Desktop Student version for free, click here.
 6. Two-Way Coupling
 7. Practice Quiz
 
+---
+
 ## ETM Using Ansys Maxwell and Icepak
 
 ![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/ETM-Using-Ansys-Maxwell-and-Icepak-768x432.png)
@@ -126,4 +128,12 @@ To download Ansys Electronics Desktop Student version for free, click here.
 > A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the ETM Using Ansys Maxwell and Icepak course.
 
 **Cost:** FREE, **Course Duration:** 4-6 HOURS, **Skill Level:** Intermediate, **Skills Gained:** Ansys, Maxwell, Icepak, Electrothermal Management
+
+1. Intro to AEDT User Interface
+2. Intro to Eddy Current Solver
+3. Ansys Maxwell and Icepak Two-Way Coupling (Part 1)
+4. Ansys Maxwell and Icepak Two-Way Coupling (Part 2)
+5. Practice Quiz
+
+---
 
