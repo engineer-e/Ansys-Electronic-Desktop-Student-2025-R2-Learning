@@ -1,4 +1,5 @@
 # Introduction to AEDT
+
 ![](https://innovationspace.ansys.com/courses/wp-content/uploads/sites/5/2023/06/New-Course-Template-1.jpg)
 
 > In this learning track, we will learn how to use various types of design types inside the Ansys Electronics Desktop Student version. This learning track gets you started with the Ansys Electronics Desktop. The objective of this learning track is to get familiar with all the available design types. It covers all the fundamental concepts about designing and analyzing high-frequency and low-frequency products and how to perform electrothermal analysis for these products. It also covers the basics of the Q3D extractor which calculates parasitic parameters of frequency-dependent electronics products.
@@ -22,3 +23,5 @@
 > Before you get started with the "Intro to Ansys HFSS" course, you may want to watch why an electromagnetic simulation is important to visualize the electric and magnetic fields and how electromagnetic simulation helps to understand the characteristics of electronics and wireless devices and systems.
 
 > A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Introduction to Ansys HFSS course.
+
+**Cost:** FREE, **Course Duration:** 2-4 HOURS, **Skill Level:** Beginner, **Skills Gained:** Ansys HFSS, Waveguides
