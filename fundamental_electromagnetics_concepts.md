@@ -86,8 +86,36 @@ Cost:FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Mag
 
 ## Electrostatic Interactions
 
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Electrostatic-Interactions2-1-768x432.webp)
+
+> In this course, we will discuss several fundamental laws of electrostatics in the context of materials, including the constitutive relation and its ramifications for the free-space equations we developed in the Electrostatics In Free Space course, the boundary conditions for the electric field at a boundary between two dissimilar media, and capacitance. This course was created for Ansys Innovation Courses by Dr. Kathryn Leigh Smith, Assistant Professor, UNC-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Electrostatic Interactions course.
+
+Cost:FREE,Course Duration: 1-2 HOURS,Skill Level: Beginner,Skills Gained: Capacitance, Fundamental laws of electrostatics
+
+1. Intro to Electrostatic Material Interaction
+2. The Constitutive Relation and Boundary Conditions
+3. Materials and The Fundamental Laws of Electrostatics
+4. Capacitance
+5. Practice Problems, Homework, and Quiz
 ---
 
 ## Magnetostatic Material Interactions
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/mmi-untagged-1-768x432.webp)
+
+> In this course, we will discuss several fundamental laws of magnetostatics, in the context of materials. We’ll begin by looking at the constitutive relation between B and H, then move to boundary conditions of the magnetic field at the interface between two media. Then we’ll cover inductance, Magnetic Energy, Forces, and Torques, Faraday’s and Lenz’s Laws, and Motional and Transformer EMF. This overview is part of the Ansys Innovation Course: Magnetostatic Material Interaction. To access this and all of our free, online courses — featuring additional videos, quizzes and handouts — visit Ansys Innovation Courses at www.ansys.com/courses. This course was created for Ansys Innovation Courses by Dr. Kathryn Leigh Smith, Assistant Professor, UNC-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Magnetostatic Material Interactions course.
+
+Cost: FREE,Course Duration: 1-2 HOURS,Skill Level: Beginner,Skills Gained: Magnetic energy, Inductance, EMF
+
+1. Intro to Magnetostatic Material Interaction
+2. The Constitutive Relation and Boundary Conditions
+3. Inductance
+4. Magnetic Energy, Forces, and Torques
+5. Motional and Transformer EMF
+6. Practice Problems, Homework, and Quiz-Magnetostatic Material Interactions.
 
 ---
