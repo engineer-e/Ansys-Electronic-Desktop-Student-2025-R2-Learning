@@ -99,3 +99,11 @@ To download Ansys Electronics Desktop Student version for free, click here.
 
 **Cost:** FREE, **Course Duration:** 4-6 HOURS, **Skill Level:** Intermediate, **Skills Gained:** Ansys, HFSS, Icepak, Electrothermal Management
 
+1. Intro to AEDT User Interface
+2. Intro to Electrothermal Management
+3. Overview of One-Way Coupling with ACT Extension
+4. One-Way Coupling with ACT Extension
+5. One-Way Coupling Step by Step Analysis
+6. Two-Way Coupling
+7. Practice Quiz
+
