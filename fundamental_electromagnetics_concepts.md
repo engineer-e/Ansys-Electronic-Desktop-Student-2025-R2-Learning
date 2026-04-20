@@ -15,6 +15,8 @@
 
 > A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Basics of Vector Algebra course.
 
+**Cost:** FREE, **Course Duration:** 1-2 HOURS, **Skill Level:** Beginner, **Skills Gained:** Vectors, Cordinate system, Vector addition, Vector substraction
+
 1. Introduction
 2. What is a Vector?
 3. Unit and Basis Vectors
@@ -27,6 +29,7 @@
 10. Vector Algebra Revisited
 11. Practice Problems, Homeworks, and Quizzes
 
+---
 
 ## Electrostatics in Free Space
 
@@ -36,7 +39,7 @@
 
 > A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Electrostatics in Free Space course.
 
-Cost: FREE, Course Duration: 0-2 HOURS, Skill Level: Beginner, Skills Gained: Coulomb's law, Gauss' law, Electric potential, Electric field
+**Cost:** FREE, **Course Duration:** 0-2 HOURS, **Skill Level:** Beginner, **Skills Gained:** Coulomb's law, Gauss' law, Electric potential, Electric field
 
 1. Overview
 2. What is an Electric Field?
@@ -58,6 +61,14 @@ Cost: FREE, Course Duration: 0-2 HOURS, Skill Level: Beginner, Skills Gained: Co
 ---
 
 ## Magnetostatics in Free Space
+
+
+---
+
 ## Electrostatic Interactions
+
+---
+
 ## Magnetostatic Material Interactions
 
+---
