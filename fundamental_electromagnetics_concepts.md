@@ -61,7 +61,26 @@
 ---
 
 ## Magnetostatics in Free Space
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Magnetostatic-in-free-space-768x432.jpg)
 
+> This course introduces the theory of static magnetic, or magnetostatic, fields. Discussion topics include Biot-Savart’s Law, Ampere’s Law and magnetic potential, which help you to calculate magnetic fields resulting from various current distributions. This course was created for Ansys Innovation Courses by Kathryn Leigh Smith, Assistant Professor, UNC-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Magnetostatics in Free space course.
+
+Cost:FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Magnetic flux density, Solenoidal law, Ampere's law, Biot Savart law
+
+1. Overview
+2. Introduction
+3. Magnetic Flux Density
+4. No Magnetic Monopoles
+5. The Solenoidal Law
+6. Ampere's Law
+7. Magnetic Vector Potential
+8. Magnetic Force on Moving Charge
+9. The Biot Savart Law
+10. Magnetic Scalar Potential
+11. Summary
+12. Practice Problems, Homeworks, and Quiz
 
 ---
 
