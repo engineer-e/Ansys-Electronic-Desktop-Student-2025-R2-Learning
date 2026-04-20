@@ -18,7 +18,7 @@ This phase is mandatory for both fields. It teaches you the common language of e
 | Week | Track # | Name | Why This First |
 | :--- | :--- | :--- | :--- |
 | 1 | **#17** | Introduction to AEDT | The software interface and project workflow for *all* tools (HFSS, Maxwell, Q3D, Icepak). |
-| 2 | **#18** | Fundamental Electromagnetics Concepts | Maxwell's equations—the physics behind every single simulation you will run. |
+| 2 | **#18** | [Fundamental Electromagnetics Concepts](fundamental_electromagnetics_concepts.md) | Maxwell's equations—the physics behind every single simulation you will run. |
 | 3 | **#16** | Fundamentals of Wave Propagation | How EM waves travel. Essential for understanding both antenna radiation and EMI from motors. |
 
 ### Phase 2: High-Frequency / ECE Core (Weeks 4-11)
