@@ -63,3 +63,22 @@ To download Ansys Electronics Desktop Student version for free, click here.
 
 ---
 
+## Introduction to Ansys Q3D Extractor
+
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Intro-to-Ansys-Q3D-768x432.png)
+
+Ansys Electronics Desktop (AEDT) provides a comprehensive environment for the design and analysis of electronic components. AEDT offers multiple design types that are required to do a full system analysis. Ansys Q3D Extractor is a 3D quasi-static electromagnetic (EM) simulation software tool that calculates fields, equivalent circuits, S-parameters, inductances, resistances, and capacitances.
+
+This course introduces you to the Ansys Q3D design type in AEDT. This course provides the step-by-step procedures required for analysis using AEDT Student version. It is the same procedure used for the commercial version. More details about this student version can be found here.
+
+This course covers the workflow required to simulate a model in Q3D Extractor using an on-chip spiral inductor as an example.
+
+A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Introduction to Ansys Q3D Extractor course.
+
+Cost: FREE, Course Duration: 2-4 HOURS, Skill Level: Beginner, Skills Gained: On chip spiral inductor, Ansys Q3D
+
+1. Intro to AEDT User Interface
+2. Intro to Ansys Q3D Extractor
+3. Simulation of On-chip Spiral Inductor
+4. Practice Quiz
