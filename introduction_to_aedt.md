@@ -25,3 +25,10 @@
 > A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Introduction to Ansys HFSS course.
 
 **Cost:** FREE, **Course Duration:** 2-4 HOURS, **Skill Level:** Beginner, **Skills Gained:** Ansys HFSS, Waveguides
+
+1. Intro to AEDT User Interface
+2. Intro to Ansys HFSS Using a Waveguide Example Part 1
+3. Intro to Ansys HFSS Using a Waveguide Example Part 2
+4. Rectangular Stacked Waveguide Analysis Using Optimetrics
+5. Twist and Bent Waveguide Analysis
+6. Practice Quiz
