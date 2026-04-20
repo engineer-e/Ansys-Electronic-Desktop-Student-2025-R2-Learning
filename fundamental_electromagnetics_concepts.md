@@ -11,6 +11,23 @@
 ## Basics of Vector Algebra
 ![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Vector-Algebra-scaled-e1592587654871-1-768x432.jpeg)
 
+> This course provides an introduction to vector algebra and to the three most common coordinate systems. The four basic functions of vector algebra — addition, subtraction, dot products and cross products — are discussed both graphically and symbolically in each of the three coordinate systems, and the equations for coordinate system transformations are presented. This course was developed by Kathryn Leigh Smith, Asst. Prof. in the Department of Electrical and Computer Engineering at the University of North Carolina-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Basics of Vector Algebra course.
+
+1. Introduction
+2. What is a Vector?
+3. Unit and Basis Vectors
+4. Vector Notation
+5. The Cartesian Coordinate System
+6. Vector Addition and Subtraction
+7. Vector Multiplication
+8. The Cylindrical Coordinate System
+9. The Spherical Coordinate System
+10. Vector Algebra Revisited
+11. Practice Problems, Homeworks, and Quizzes
+
+
 ## Electrostatics in Free Space
 ## Magnetostatics in Free Space
 ## Electrostatic Interactions
