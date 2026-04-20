@@ -9,6 +9,7 @@
 **Cost:** FREE, **Course Duration:** 6+ HOURS, **Skill Level:** Intermediate,**Skills Gained:** Ansys HFSS, Ansys Maxwell, Ansys Q3D, AEDT Icepak
 
 
+---
 
 ##  Intro to Ansys HFSS 
 
@@ -32,3 +33,33 @@
 4. Rectangular Stacked Waveguide Analysis Using Optimetrics
 5. Twist and Bent Waveguide Analysis
 6. Practice Quiz
+
+---
+
+## Ansys Maxwell Introduction - Magnetostatic
+
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Intro-to-Ansys-Maxwell-Magnetostatic-768x432.jpg)
+
+> Ansys Maxwell is an electromagnetic simulation tool that is integrated into the Ansys Electronics Desktop (AEDT). Maxwell is used for analyzing low-frequency electronic devices and machines or when simulating with materials that have a nonlinear BH curve or material anisotropy. It uses various types of solvers to evaluate magnetic and electric fields. This course introduces you to the Ansys Maxwell simulation software tool by reviewing the basic concept of an electromagnetic fail-safe brake (EMB) system.
+
+> We will create and analyze both a 3D and 2D model of an EMB system using a DC magnetostatic solver in Maxwell. All the necessary steps required to perform a Maxwell simulation are discussed.
+
+> Magnetostatic solvers assume steady-state currents and permanent magnets as excitations. From an application perspective, the steady currents in a winding create steady fields and static flux linkages for each winding.
+
+> You will also learn how to use variables so a parametric analysis can be set up to visualize the variations in the output results for a defined input variable range. Finally, we will compare the results between 2D and 3D Maxwell simulations to learn when a 2D or 3D model version should be used.Learn practical simulation engineering techniques while following along with hands-on examples that can be completed either using your valid commercial/academic Ansys license or with Ansys Electronics Desktop Student.
+To download Ansys Electronics Desktop Student version for free, click here.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Ansys Maxwell Introduction - Magnetostatic course.
+
+**Cost:** FREE, **Course Duration:** 4-6 HOURS, **Skill Level:** Beginner, **Skills Gained:** Ansys Maxwell, EMB System, AEDT
+
+1. Intro to AEDT User Interface
+2. Intro to Ansys Maxwell and EMB Applications
+3. Geometry Creation of EMB Using Ansys Maxwell
+4. 3D Magnetostatic Simulation of EMB Using Ansys Maxwell
+5. 2D Magnetostatic Simulation of EMB Using Ansys Maxwell
+6. Practice Quiz
+
+---
+
