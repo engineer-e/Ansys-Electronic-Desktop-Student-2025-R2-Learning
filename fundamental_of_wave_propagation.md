@@ -130,6 +130,19 @@ Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Sm
 
 ## 6. Intro to Multiport Analysis
 
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Intro-to-Multiport-Analysis-scaled-1-768x510.jpg)
+
+> In this course we will introduce multiport network analysis methods. These are network characterization methods that describe a network purely through its externally observable behavior at a finite number of points where energy enters and exits the system, known as “ports.” We will begin by introducing the black box model, which is a system modeling technique that chooses to focus on the set of externally observable system characteristics while “hiding” all internal processes of the network. This is commonly used to simplify analysis of large systems so that each individual element of the system need not be separately analyzed. We will then look specifically at several examples of multiport analysis methods, which utilize a black box method to characterize a network in terms of its behavior at a finite number of ports. This course was created for Ansys Innovation Courses by Dr. Kathryn Leigh Smith, assistant professor, UNC-Charlotte, in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Introduction to Multiport Analysis course.
+
+Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Black box model, ABCD parameter
+
+1. Intro to Multiport Network Analysis
+2. The Black Box Model and N-Port Networks
+3. Intro to Port-Based Network Analysis Methods ([S], [Z], [Y], and [ABCD] Parameters)
+4. Practice Problems, Homework, and Quiz
+
 ---
 
 ## 7. Basics of S-parameters
