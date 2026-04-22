@@ -18,6 +18,17 @@
 
 Cost: FREE, Course Duration: 0-2 HOURS, Skill Level: Beginner, Skills Gained: Maxwell's equations, Phasors, Vector potential, Boundary conditions
 
+--- 
+
+1. Intro to Electromagnetic Wave Propagation
+2. Maxwell's Equations
+3. Phasor Notation
+4. Wave Equations
+5. Wave Equation Solution
+6. Vector Potential Wave Equations
+7. Boundary Conditions
+8. Summary
+9. Practice Problems, Homework and Quiz
 
 ---
 
