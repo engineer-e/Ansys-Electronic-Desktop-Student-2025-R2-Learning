@@ -107,7 +107,31 @@ Cost:FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Coa
 
 ## 5. Matching Networks and Design Tools
 
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Matching-Networks-Untagged-1024x576-1-1-768x432.webp)
+
+> This module provides an introduction to matching networks, which are used to maximize power transfer from a feed line to a load. In this context, we will also introduce the Smith chart, which is a graphical tool used to ease design and analysis of electromagnetic systems. We will go through the design of quarter-wave transformers, LC matching networks, and single-stub tuners.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Matching Networks and Design Tools course.
+
+Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Smith chart, Quarter wave transformer, Stub tuning
+
+1. Introduction
+2. The Quarter-Wave Transformer
+3. The Impedance Smith Chart
+4. Smith Chart Scales
+5. Smith Chart Input Impedance
+6. Full Color Smith Chart and Lumped Impedance Matching
+7. Single Stub Tuning
+8. 3D Electromagnetic Simulation
+9. Summary
+10. Practice Problems, Homework, and Quiz
+
+---
+
 ## 6. Intro to Multiport Analysis
+
+---
+
 ## 7. Basics of S-parameters
 
 ----
