@@ -61,6 +61,32 @@ Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: In
 ---
 
 ## 3. Transmission Line Theory
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/TransmissionLinesV3-scaled-1-1-768x431.jpeg)
+
+> This course provides an introduction to the theory of transmission lines. Characteristic impedance is defined and used to derive equations for signal reflection and transmission at an impedance discontinuity. Discussion also covers matching networks, input impedance and S-parameters. This course was developed by Kathryn Leigh Smith, Asst. Prof. in the Department of Electrical and Computer Engineering at the University of North Carolina-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Transmission Line Theory course.
+
+Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Telegrapher's equation, Wave equation, Reflection coefficient, Input impedance, Scattering parameters.
+
+1. Introduction
+2. The Telegrapher's Equations
+3. The Wave Equations
+4. Wave Equation Solutions
+5. Characteristic Impedance
+6. Phase and Group Velocity
+7. Reflection Coefficient
+8. Input Impedance
+9. Quarter Wave Transformers
+10. Impedance Discontinuities On A Line
+11. A Note About Notation
+12. Scattering Parameters
+13. Summary
+14. Practice Problems, Homework, and Quiz
+
+---
+
 ## 4. Basic Transmission Line Structures
 ## 5. Matching Networks and Design Tools
 ## 6. Intro to Multiport Analysis
