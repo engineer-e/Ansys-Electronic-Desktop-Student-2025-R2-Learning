@@ -147,4 +147,19 @@ Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Bl
 
 ## 7. Basics of S-parameters
 
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/MicrosoftTeams-image-216-768x432.png)
+
+> In this course we will discuss scattering parameters, or S-parameters. This is a method of network characterization that describes what happens to an input wave that impinges on one of the ports. This input signal may be reflected at the port or it may be transmitted through the system to one or more output ports. Typically, this isn’t an all-or-nothing proposition; some of the wave gets reflected and some gets transmitted. S-parameters, therefore, are used to describe how much of the wave follows each of these trajectories. The scattering parameters of an N-port network consists of an NxN matrix, where each matrix element describes a possible trajectory for a voltage wave impinging on a port — either reflecting back out that same port or transmitting through to another port. We will first talk through the definition of the S-parameters, then we will work through an example. This course was created for Ansys Innovation Courses by Dr. Kathryn Leigh Smith, assistant professor, UNC-Charlotte, in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the
+
+> Basics of S-parameters course.
+
+Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Scattering parameters
+
+1. Intro to Basics of S-parameters
+2. What are S-parameters?
+3. Calculating S-parameters: An Example
+4. Practice Problems, Homework, Quiz
+
 ----
