@@ -33,6 +33,33 @@ Cost: FREE, Course Duration: 0-2 HOURS, Skill Level: Beginner, Skills Gained: Ma
 ---
 
 ## 2. Electromagnetic Plane Waves
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/Electromagnetic-plane-waves-V2-scaled-e1592587411635-1-768x432.jpeg)
+
+> This course takes an in-depth look at electromagnetic plane waves. Highlights include the Poynting theorem, Snell’s Law and polarization characteristics, as well as power density of electromagnetic waves, propagation in a lossy medium, and reflection and transmission of electromagnetic waves at dissimilar dielectric boundaries. This course was developed by Kathryn Leigh Smith, Asst. Prof. in the Department of Electrical and Computer Engineering at the University of North Carolina-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Electromagnetic Plane Waves course.
+
+Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Intrinsic impedance, Polarization, Poynting, Snell's law
+
+1. Overview
+2. What is a Plane Wave?
+3. Intrinsic Impedance of Plane Waves
+4. Plane Wave Propagation in a Dielectric
+5. Polarization of Electromagnetic Waves
+6. Linear Polarization
+7. Circular Polarization
+8. Elliptical Polarization
+9. Incidence on a Dielectric Boundary: Introduction
+10. Normal Incidence on a Dielectric Boundary
+11. Snell's Law and Critical Angle
+12. Oblique Incidence on a Dielectric Boundary
+13. Electromagnetic Power and Poynting
+14. Summary
+15. Examples, Homeworks, and Quizzes
+
+---
+
 ## 3. Transmission Line Theory
 ## 4. Basic Transmission Line Structures
 ## 5. Matching Networks and Design Tools
