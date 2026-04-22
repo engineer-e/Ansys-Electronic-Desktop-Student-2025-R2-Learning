@@ -8,12 +8,24 @@
 
 ----
 
-1. Electromagnetic Wave Propagation
-2. Electromagnetic Plane Waves
-3. Transmission Line Theory
-4. Basic Transmission Line Structures
-5. Matching Networks and Design Tools
-6. Intro to Multiport Analysis
-7. Basics of S-parameters
+## 1. Electromagnetic Wave Propagation
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/ewp-untagged-1-768x432.png)
+
+> This course introduces the basic principles behind electromagnetic wave propagation. We will begin with a discussion of the most fundamental laws of electromagnetism – Maxwell’s equations. We will then use Maxwell’s equations to derive the wave equations for the electric and magnetic fields, and then solve those wave equations to find the actual equations that describe the propagating electromagnetic wave. We’ll end this course by considering what Maxwell’s equations tell us about what happens when an electromagnetic wave traveling in a medium runs into a second medium with different material properties. By the end of this course, you should understand how the propagating electromagnetic wave is derived from Maxwell’s equations, be able to describe the propagation and orientation of a wave from its mathematical equation, and list the field conditions that must be met at an interface between two dissimilar media. This course was developed by Kathryn Leigh Smith, Asst. Prof. in the Department of Electrical and Computer Engineering at the University of North Carolina-Charlotte in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Electromagnetic Wave Propagation course.
+
+Cost: FREE, Course Duration: 0-2 HOURS, Skill Level: Beginner, Skills Gained: Maxwell's equations, Phasors, Vector potential, Boundary conditions
+
+
+---
+
+## 2. Electromagnetic Plane Waves
+## 3. Transmission Line Theory
+## 4. Basic Transmission Line Structures
+## 5. Matching Networks and Design Tools
+## 6. Intro to Multiport Analysis
+## 7. Basics of S-parameters
 
 ----
