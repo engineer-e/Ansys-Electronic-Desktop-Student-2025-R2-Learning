@@ -88,7 +88,25 @@ Cost: FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Te
 ---
 
 ## 4. Basic Transmission Line Structures
+
+![](https://innovationspace.ansys.com/wp-content/uploads/2024/03/BasicTransmissionLine-Untagged-1-1-768x432.webp)
+
+> This course provides an introduction to several basic and commonly used transmission lines. We will cover the basic characteristics of and design equations for coaxial cable, microstrip transmission line, parallel plate waveguide, and rectangular waveguides. In each case, we will look at the basic geometric skeleton of each structure, and then go through the specifics of supported modes, characteristic impedances and guided wave phase velocity. This course was created for Ansys Innovation Courses by Dr. Kathryn Leigh Smith, Assistant Professor, UNC-Charlotte, in partnership with Ansys.
+
+> A course completion badge allows you to showcase your success. With our badging platform, digital badges can be easily shared in email signatures, digital resumes, and social media profiles, helping you highlight your achievements. The digital image contains verified metadata that describes your participation in our course and the topics and skills that were covered. This badge is for successfully completing the Basic Transmission Line Structures course.
+
+Cost:FREE, Course Duration: 1-2 HOURS, Skill Level: Beginner, Skills Gained: Coaxial cable, Microstrip line, Parallel plate waveguide
+
+1. Intro to Basic Transmission Line Structure
+2. Coaxial Transmission Line
+3. Microstrip Transmission Line
+4. Parallel Plate and Rectangular Waveguides
+5. Practice Problems, Homework, and Quiz
+
+---
+
 ## 5. Matching Networks and Design Tools
+
 ## 6. Intro to Multiport Analysis
 ## 7. Basics of S-parameters
 
