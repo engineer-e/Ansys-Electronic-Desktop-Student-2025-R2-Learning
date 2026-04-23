@@ -4,14 +4,27 @@
 
 Cost: FREE, Course Duration: 2-4 HOURS, Skill Level: Beginner, Skills Gained: Analytical model of a point charge, computational model of a point charge, Ansys Maxwell simulation workflow
 
-1. Analytical model of a Point Charge - Part 1
+## 1. Analytical model of a Point Charge - Part 1
+
+> This video lesson introduces the analytical model of a point charge to describe the electric field. It serves as a foundational concept that relates the vector field to the quantity of charge, providing essential insights into the relationship between electric fields and charge distribution. This lesson also covers the mathematical equation for the electric field, which explains the relationship between the magnitude of the charge, the distance from the charge, and the resulting electric field vector.
+
+
 2. Analytical model of a Point Charge - Part 2
+
 3. Overview of Ansys Electronic Desktop (AEDT)
+
 4. Geometry Creation & Materials
+
 5. Boundaries and Excitation
+
 6. Setup and Analysis - Part 1
+
 7. Setup and Analysis - Part 2
+
 8. Data Table Report
+
 9. Mesh and Field Plots
+
 10. Example Problem - Part 1
+
 11. Example Problem - Part 2
