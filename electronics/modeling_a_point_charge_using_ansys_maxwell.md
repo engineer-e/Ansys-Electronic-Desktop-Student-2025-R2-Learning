@@ -155,17 +155,21 @@ This video lesson covers the concept of calculating the electric field generated
 
 > This video lesson provides a detailed guide on replicating the analytical model discussed in previous lessons with a 3D model in Ansys Maxwell® advanced electromagnetic field solver. While the geometry used in this example is simple, the steps outlined here are applicable to more complex models encountered when applying simulation techniques to advanced engineering problems. It begins by creating a sphere at the origin, followed by a discussion on the hierarchical structure within the project manager window and history tree. Additionally, the lesson covers how to add the "air box" or region, which defines the solution space. It also covers how to assign material property and change the solution type in Ansys Maxwell software.
 
-### Step 1
+### Step 1 - Create a Sphere of 1mm
 
 ![alt text](image/step1.gif)
 
-### Step 2
+### Step 2 - Chage Solution Type from Magnetostatic to Electrostatic
 
 ![alt text](image/step2.gif)
 
-### Step 3
+### Step 3 - Assign Material - Copper
 
 ![alt text](image/step3.gif)
+
+### Step 4 - Create Region
+
+![alt text](image/step4.gif)
 
 
 5. Boundaries and Excitation
