@@ -145,6 +145,8 @@ This video lesson covers the concept of calculating the electric field generated
 
 ![alt text](image/19.png)
 
+### Select Maxwell Icon in Toolbar - then Maxwell3D
+
 ![alt text](image/3dmaxwell.gif)
 
 
