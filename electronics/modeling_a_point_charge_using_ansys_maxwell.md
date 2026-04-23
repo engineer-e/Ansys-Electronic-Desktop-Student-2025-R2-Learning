@@ -139,6 +139,9 @@ This video lesson covers the concept of calculating the electric field generated
 
 3. Overview of Ansys Electronic Desktop (AEDT)
 
+![alt text](image/17.png)
+
+
 4. Geometry Creation & Materials
 
 5. Boundaries and Excitation
