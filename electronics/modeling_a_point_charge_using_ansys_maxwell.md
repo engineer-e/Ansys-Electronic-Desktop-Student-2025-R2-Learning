@@ -8,6 +8,9 @@ Cost: FREE, Course Duration: 2-4 HOURS, Skill Level: Beginner, Skills Gained: An
 
 > This video lesson introduces the analytical model of a point charge to describe the electric field. It serves as a foundational concept that relates the vector field to the quantity of charge, providing essential insights into the relationship between electric fields and charge distribution. This lesson also covers the mathematical equation for the electric field, which explains the relationship between the magnitude of the charge, the distance from the charge, and the resulting electric field vector.
 
+- Electric field from a point charge - Analytical model
+-  
+
 
 2. Analytical model of a Point Charge - Part 2
 
