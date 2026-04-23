@@ -173,8 +173,28 @@ This video lesson covers the concept of calculating the electric field generated
 
 ![alt text](image/step4.gif)
 
+---
 
-5. Boundaries and Excitation
+## 5. Boundaries and Excitation
+
+> This video lesson covers excitations and boundaries in Ansys Maxwell® advanced electromagnetic field solver. It focuses on floating and voltage excitations. It explains how the solution space is artificially limited to 500 mm while enforcing a zero-voltage condition at the boundary. This artificially truncates the “known universe.
+
+### Step 1 - Sphere - Add Excitation - Floating - 1C
+
+![alt text](image/5/step1.gif)
+
+
+### Step 2 - Region from Object to Faces
+
+![alt text](image/5/step2.gif)
+
+
+### Step 3 - Region - Add Excitation - Voltage - 0V
+
+![alt text](image/5/step3.gif)
+
+
+---
 
 6. Setup and Analysis - Part 1
 
