@@ -1,0 +1,1 @@
+ffmpeg -ss 0 -t 20 -i videofilename.mp4 -vf "fps=60,scale=1920:-1:flags=lanczos" output.gif
