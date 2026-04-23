@@ -196,7 +196,7 @@ This video lesson covers the concept of calculating the electric field generated
 
 ---
 
-6. Setup and Analysis - Part 1
+## 6. Setup and Analysis - Part 1
 
 > This video lesson covers how to specify the solution setup and monitor the progress as it completes the adaptive solve process Ansys Maxwell® advanced electromagnetic field solver. Once the solution is finalized, it demonstrates how to generate a data table field report and evaluate the magnitude of the E field at the observation point. It also provides a comparison of the results obtained through simulation to an analytical estimate.
 
