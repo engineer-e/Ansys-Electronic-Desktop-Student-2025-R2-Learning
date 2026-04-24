@@ -380,4 +380,11 @@ point_charge_model (E:/Point  Charge/)
 
 # 11. Example Problem - Part 2
 
+![alt text](image/p2/1.jpeg)
+![alt text](image/p2/2.png)
+
+- Simulated, Electric Field Value = 6.13768e+06, Region (x = 4m, y = 3m)
+- Simulated, Electric Field  - $E_x$ Value = 3.90174e+07, Region (x = 4m, y = 3m)
+- Simulated, Electric Field  - $E_y$ Value = 2.56648e+08, Region (x = 4m, y = 3m)
+
 ---
