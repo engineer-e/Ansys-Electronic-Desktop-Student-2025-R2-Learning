@@ -202,14 +202,19 @@ This video lesson covers the concept of calculating the electric field generated
 ![alt text](image/5/step1.gif)
 
 
-### Step 2 - Region from Object to Faces
+### Step 2 - From Object to Faces - Select Region > Selection Mode > Face 
 
 ![alt text](image/5/step2.gif)
 
 
-### Step 3 - Region - Add Excitation - Voltage - 0V
+### Step 3 - Select Region > Extended Section > All Object Faces
 
 ![alt text](image/5/step3.gif)
+
+
+### Step 4 - Region - Add Excitation - Voltage - 0V
+
+![alt text](image/5/step4.gif)
 
 
 ---
