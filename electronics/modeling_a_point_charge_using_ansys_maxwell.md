@@ -225,6 +225,8 @@ This video lesson covers the concept of calculating the electric field generated
 
 ### Step 1 - Analysis - Setup
 
+- Analysis Setup 1, with 10 pass , 0.01 % error.
+
 ![alt text](image/6/step1.gif)
 
 
@@ -282,8 +284,40 @@ point_charge_model (E:/Point  Charge/)
 
 ![alt text](image/6/step9.gif)
 
+---
 
-7. Setup and Analysis - Part 2
+## 7. Setup and Analysis - Part 2
+
+### Step 1 : Create Another Analysis Setup 2
+
+- Since you can place observation point at any distance inside the region, If you have hpc server connect or with GPU more core and more 16 GB and 20 GB RAM is required, It perform perfect simulation,
+
+- I Run this only in Local System , with only 1 core, 8 GB RAM only, Before, I Done Analysis Setup 1, with 10 pass , 0.01 % error.
+
+- To Find the how, It working for different value in simulation
+
+- Now , I Run this with  Done Analysis Setup 1, with 10 pass , 0.1 % error.
+
+![alt text](image/7/step1.gif)
+
+### Step 2 : Viewing Solution Data in Result
+
+![alt text](image/7/step2.gif)
+
+
+
+### Step 3 : Solution Data for Result Process during Analysis
+ 
+
+![alt text](image/7/step3.gif)
+
+
+| ![alt text](image/21.png)  | ![alt text](image/23.png) |
+|---|---|
+| ![alt text](image/22.png) | ![alt text](image/24.png) |
+
+
+---
 
 8. Data Table Report
 
