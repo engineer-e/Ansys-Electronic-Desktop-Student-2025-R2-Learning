@@ -368,11 +368,13 @@ point_charge_model (E:/Point  Charge/)
 
 ![alt text](image/26.png)
 
-- Simulated Value = 6.15117e+06
+- Simulated Value = 6.15117e+06, Region (x = 5m, y = 5m)
+- Simulated Value = 7.95535e+06, Region (x = 5m, y = 4m)
+- Simulated Value = 6.13768e+06, Region (x = 4m, y = 3m)
 
 ![alt text](image/p1/1.png)
-![alt text](image/p1/E_Vector.png)
-![alt text](image/p1/Mag_E.png)
+![alt text](image/p1/E_Vector2.png)
+![alt text](image/p1/Mag_E2.png)
 
 ---
 
