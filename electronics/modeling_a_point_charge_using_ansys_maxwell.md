@@ -177,15 +177,19 @@ This video lesson covers the concept of calculating the electric field generated
 
 ![alt text](image/4/step2.gif)
 
-### Step 3 - Assign Material - Copper
+
+### Step 3 - Create Region of 1 m
+
+![alt text](image/4/step4.gif)
+
+### Step 4 - Assign Material - Copper
 
 **Note** : I able to run in Local Machine, for is Copper is not able to simulate, so using Vacuum only.
 
+**Error** : ? 
+
 ![alt text](image/4/step3.gif)
 
-### Step 4 - Create Region of 1 m
-
-![alt text](image/4/step4.gif)
 
 ---
 
