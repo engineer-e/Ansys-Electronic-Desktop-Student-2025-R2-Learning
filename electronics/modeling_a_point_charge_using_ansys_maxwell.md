@@ -342,17 +342,17 @@ point_charge_model (E:/Point  Charge/)
 
 | Data | Setup 2 = 10 pass, 0.1% Precision Error = 8.43716e+11 | Setup 1 = 10 pass, 0.01% Precision Error = 8.96965e+11 |
 | --- | --- | --- | 
-| Mesh Plot | ![alt text](image/9/s2/step1.gif) | |
-| Mag_E  | ![alt text](image/9/s2/step2.gif) | |
-| Changing Scale | ![alt text](image/9/s2/step3.gif) | |
-| Mesh Plot | ![alt text](image/9/s2/s2-mesh.png) | |
-| Mag_E | ![alt text](image/9/s2/s2-mag_e1.png) | |
-| Mag_E - Linear | ![alt text](image/9/s2/linear-setup2.png) | |
-| Mag_E - Log | ![alt text](image/9/s2/log-setup2.png) | |
-| Mag_E - DB | ![alt text](image/9/s2/db-setup2.png) | |
-| E_Vector | ![alt text](image/9/s2/ef-setup2.png) | |
-| E_Vector - Linear | ![alt text](image/9/s2/ef-linear-setup2.png) | |
-| E_Vector - Log | ![alt text](image/9/s2/ef-log-setup2.png) | |
+| Mesh Plot | ![alt text](image/9/s2/step1.gif) | ![alt text](image/9/s1/step1.gif) |
+| Mag_E  | ![alt text](image/9/s2/step2.gif) | ![alt text](image/9/s1/step2.gif) |
+| Changing Scale | ![alt text](image/9/s2/step3.gif) | ![alt text](image/9/s1/step3.gif) |
+| Mesh Plot | ![alt text](image/9/s2/s2-mesh.png) |![alt text](image/9/s1/mesh_plot.png) |
+| Mag_E | ![alt text](image/9/s2/s2-mag_e1.png) | ![alt text](image/9/s1/mag_e.png) |
+| Mag_E - Linear | ![alt text](image/9/s2/linear-setup2.png) |  ![alt text](image/9/s1/mag_e_linear.png) |
+| Mag_E - Log | ![alt text](image/9/s2/log-setup2.png) |  ![alt text](image/9/s1/mag_e_log.png) |
+| Mag_E - DB | ![alt text](image/9/s2/db-setup2.png) |  ![alt text](image/9/s1/mag_e_db.png)|
+| E_Vector | ![alt text](image/9/s2/ef-setup2.png) | ![alt text](image/9/s1/e_vector.png) |
+| E_Vector - Linear | ![alt text](image/9/s2/ef-linear-setup2.png) | ![alt text](image/9/s1/e_vector_linear.png)|
+| E_Vector - Log | ![alt text](image/9/s2/ef-log-setup2.png) |![alt text](image/9/s1/e_vector_log.png) |
 
 
 
