@@ -364,6 +364,16 @@ point_charge_model (E:/Point  Charge/)
 
 # 10. Example Problem - Part 1
 
+> This video lesson covers an example problem that focuses on the vector nature of the electric field, specifically solving for the Ex and Ey components at a given observation point. This video lesson also covers the basic concepts required to solve the example such as Cartesian grids, displacement, and the Pythagorean theorem.
+
+![alt text](image/26.png)
+
+- Simulated Value = 6.15117e+06
+
+![alt text](image/p1/1.png)
+![alt text](image/p1/E_Vector.png)
+![alt text](image/p1/Mag_E.png)
+
 ---
 
 # 11. Example Problem - Part 2
