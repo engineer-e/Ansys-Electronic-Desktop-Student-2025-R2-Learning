@@ -228,6 +228,61 @@ This video lesson covers the concept of calculating the electric field generated
 ![alt text](image/6/step1.gif)
 
 
+### Step 2 - Start to Analysis
+
+![alt text](image/6/step2.gif)
+
+
+```error
+*Global - Messages
+  [info] GRPC server running on port: 50051. 
+point_charge_model (E:/Point  Charge/)
+  Maxwell3DDesign1 (Electrostatic)
+    [info] Verify conduction path: Conduction path validate success. (03:28:52 PM  Apr 24, 2026)
+    [error] Process '3des' terminated abnormally.  It may have run out of memory or could have been killed by the user. (03:28:58 PM  Apr 24, 2026)
+    [error] Simulation completed with execution error on server: Local Machine. (03:29:00 PM  Apr 24, 2026)
+```
+
+
+### Step 3 - Change from Copper to Vacuum for Sphere
+
+![alt text](image/6/step3.gif)
+
+
+### Step 4 - Deleted the Sphere and Region
+
+![alt text](image/6/step4.gif)
+
+
+### Step 5 - Recreated the Sphere and Region in Vacuum, then Start to Analysis
+
+![alt text](image/6/step5.gif)
+
+
+### Step 6 - Electric for the Point Charge of 0.1 m
+
+![alt text](image/6/step6.gif)
+
+
+### Step 7 - Look Around
+
+![alt text](image/6/step7.gif)
+
+
+### Step 8 - Create a Observation Point for Result.
+
+![alt text](image/6/step8.gif)
+
+
+### Step 9 - Result.
+
+- This due to, I placed the observation point, on the surface, of the sphere. If you move away, it changes.
+- Simulation Result = $8.96965 \times 10^{+11}$ v/m
+- Calculated Result = $8.99e  \times 10^{+11}$ v/m
+
+![alt text](image/6/step9.gif)
+
+
 7. Setup and Analysis - Part 2
 
 8. Data Table Report
