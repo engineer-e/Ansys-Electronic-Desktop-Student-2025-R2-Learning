@@ -8,7 +8,7 @@ I have reorganized all 19 tracks into a single, sequential 21-week plan. This or
 
 | S.No | Electronic | My Notes  |Video | Download|  Status|
 | :--- | :--- | :--- | --- | --- | --- |
-| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) | 2 | [click](project/electronic/point_charge_model/point_charge_model.rar) |  Completed | 
+| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  Completed | 
 
 ---
 
