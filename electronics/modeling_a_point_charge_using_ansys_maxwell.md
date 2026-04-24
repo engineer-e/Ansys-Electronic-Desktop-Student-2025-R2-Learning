@@ -278,7 +278,7 @@ point_charge_model (E:/Point  Charge/)
 
 - This due to, I placed the observation point, on the surface, of the sphere. If you move away, it changes.
 - Simulation Result = $8.96965 \times 10^{+11}$ v/m
-- Calculated Result = $8.99e  \times 10^{+11}$ v/m
+- Calculated Result = $8.99  \times 10^{+11}$ v/m
 
 ![alt text](image/6/step9.gif)
 
