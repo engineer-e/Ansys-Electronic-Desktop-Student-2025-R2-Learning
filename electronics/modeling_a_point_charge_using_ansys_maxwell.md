@@ -337,8 +337,33 @@ point_charge_model (E:/Point  Charge/)
 - Setup 1 = 10 pass, 0.01% Precision Error = 8.96965e+11
 - Setup 2 = 10 pass, 0.1% Precision Error = 8.43716e+11
 ---
-9. Mesh and Field Plots
 
-10. Example Problem - Part 1
+# 9. Mesh and Field Plots
 
-11. Example Problem - Part 2
+| Data | Setup 2 = 10 pass, 0.1% Precision Error = 8.43716e+11 | Setup 1 = 10 pass, 0.01% Precision Error = 8.96965e+11 |
+| --- | --- | --- | 
+| | ![alt text](image/9/s2/step1.gif) | |
+| | ![alt text](image/9/s2/step2.gif) | |
+| | ![alt text](image/9/s2/step3.gif) | |
+| | ![alt text](image/9/s2/s2-mesh.png) | |
+| | ![alt text](image/9/s2/s2-mag_e1.png) | |
+| | ![alt text](image/9/s2/linear-setup2.png) | |
+| | ![alt text](image/9/s2/log-setup2.png) | |
+| | ![alt text](image/9/s2/db-setup2.png) | |
+| | ![alt text](image/9/s2/ef-setup2.png) | |
+| | ![alt text](image/9/s2/ef-linear-setup2.png) | |
+| | ![alt text](image/9/s2/ef-log-setup2.png) | |
+
+
+
+
+
+---
+
+# 10. Example Problem - Part 1
+
+---
+
+# 11. Example Problem - Part 2
+
+---
