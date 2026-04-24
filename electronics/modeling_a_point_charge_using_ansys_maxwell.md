@@ -288,6 +288,8 @@ point_charge_model (E:/Point  Charge/)
 
 ## 7. Setup and Analysis - Part 2
 
+> This video lesson covers how to specify analysis setup with higher accuracy criteria Ansys Maxwell® advanced electromagnetic field solver. It delves into the process of convergence as the simulation progresses through adaptive passes. The lesson explains this process with key performance metrics such as runtime, RAM utilization, and processing time during the solution.
+
 ### Step 1 : Create Another Analysis Setup 2
 
 - Since you can place observation point at any distance inside the region, If you have hpc server connect or with GPU more core and more 16 GB and 20 GB RAM is required, It perform perfect simulation,
@@ -321,6 +323,8 @@ point_charge_model (E:/Point  Charge/)
 
 ## 8. Data Table Report
 
+> This video lesson covers how to add the results from a new setup to an existing report Ansys Maxwell® advanced electromagnetic field solver and explores the improvements in accuracy achieved. It emphasizes the impact of higher convergence criteria settings, demonstrating how they contribute to more accurate results.
+
 ### Step 1 - Compare the Analysis of Setup 1 and 2
 
 ![alt text](image/8/step1.gif)
@@ -340,6 +344,8 @@ point_charge_model (E:/Point  Charge/)
 
 # 9. Mesh and Field Plots
 
+> This lesson covers various mesh and field plots for each setup Ansys Maxwell® advanced electromagnetic field solver. It highlights how a denser mesh contributes to improved accuracy. It also introduces 2D field plots, including magnitude and vector, to help visualize the field characteristics throughout the volume. Additionally, this lesson covers different options such as how to hide and show geometry, adjust model transparency, and rescale field plots.
+
 | Data | Setup 2 = 10 pass, 0.1% Precision Error = 8.43716e+11 | Setup 1 = 10 pass, 0.01% Precision Error = 8.96965e+11 |
 | --- | --- | --- | 
 | Mesh Plot | ![alt text](image/9/s2/step1.gif) | ![alt text](image/9/s1/step1.gif) |
@@ -353,10 +359,6 @@ point_charge_model (E:/Point  Charge/)
 | E_Vector | ![alt text](image/9/s2/ef-setup2.png) | ![alt text](image/9/s1/e_vector.png) |
 | E_Vector - Linear | ![alt text](image/9/s2/ef-linear-setup2.png) | ![alt text](image/9/s1/e_vector_linear.png)|
 | E_Vector - Log | ![alt text](image/9/s2/ef-log-setup2.png) |![alt text](image/9/s1/e_vector_log.png) |
-
-
-
-
 
 ---
 
