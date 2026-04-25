@@ -6,9 +6,9 @@ Absolutely. Combining both fields makes you a **full-stack electromagnetic engin
 I have reorganized all 19 tracks into a single, sequential 21-week plan. This order respects the fundamental physics (you need to understand fields before waves) and integrates the high-frequency (ECE) and low-frequency (EE) tools logically.
 
 
-| S.No | Electronic | My Notes  |Video | Download|  Status|
+| S.No | Electronic | My Notes  |Video | Download|  Certificate|
 | :--- | :--- | :--- | --- | --- | --- |
-| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  Completed | 
+| 1 |  [Modeling a Point Charge Using Ansys Maxwell](https://innovationspace.ansys.com/product/modeling-a-point-charge-using-ansys-maxwell/) |  [Project⭐](electronics/modeling_a_point_charge_using_ansys_maxwell.md) |  | [click](project/electronic/point_charge_model/point_charge_model.rar) |  [completed](https://innovation.ansys.com/badges/badge/bW9kZWxpbmctYS1wb2ludC1jaGFyZ2UtdXNpbmctYW5zeXMtbWF4d2VsbC0xMA==) | 
 
 ---
 
