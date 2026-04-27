@@ -1,5 +1,5 @@
 # Ansys Electronic Desktop Student 2025 R2 - Learning
-> Student Version only. (^_^)
+> Student Version only. (^_^) [Donate 💖](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
 
 Absolutely. Combining both fields makes you a **full-stack electromagnetic engineer**—someone who can design the antenna (HFSS) and the motor (Maxwell) for an electric vehicle, or handle the wireless power transfer (HFSS) and the power electronics (Circuit/Maxwell) for a drone. This is a powerful and highly sought-after skill set in the Indian automotive, aerospace, and defense industries.
 
