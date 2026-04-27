@@ -1,5 +1,7 @@
 # Modeling a Point Charge Using Ansys Maxwell
 
+[Donate 💖](https://engineer-e.github.io/Nvidia-Learning/donate/donate.html)
+
 > This beginner’s course is part one of a three-part series that introduces to the field of computational physics and simulation. It compares analytical Vs computational models using a simple point charge. This course provides a theoretical basis for qualifying and comparing your simulation results. It introduces the Ansys Electronics Desktop (AEDT) interface using the Ansys Maxwell® advanced electromagnetic field solver 3D design. This novel approach ensures that the first simulation experience is on a sound footing by comparing it to the “true” solution, while simultaneously learning best practices in the simulation workflow. Furthermore, by following along in AEDT, it provides critical experience in a common user interface that carries over into other applications like HFSS.
 
 Cost: FREE, Course Duration: 2-4 HOURS, Skill Level: Beginner, Skills Gained: Analytical model of a point charge, computational model of a point charge, Ansys Maxwell simulation workflow
